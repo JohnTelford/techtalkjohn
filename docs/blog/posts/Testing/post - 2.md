@@ -1,7 +1,9 @@
 ---
-date:
-  created: 2024-10-17
+date: 2024-10-17
+categories:
+  - Raycast
 ---
+
 
 Sit consectetur anim commodo excepteur reprehenderit irure. Duis adipisicing proident minim tempor nulla elit fugiat. Irure irure veniam minim Lorem. Consectetur nisi do cillum magna sunt anim amet enim aliqua eiusmod sint commodo minim proident.
 

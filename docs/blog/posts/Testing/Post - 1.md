@@ -1,6 +1,7 @@
 ---
-date:
-  created: 2024-10-17
+date: 2024-10-17
+categories:
+  - TEST
 ---
 
 Deserunt ea proident consectetur officia cupidatat in do enim exercitation cillum exercitation deserunt et id. Esse reprehenderit adipisicing nostrud consequat duis incididunt anim deserunt dolor elit ex aute non. Reprehenderit voluptate sit elit reprehenderit tempor deserunt. Enim qui cillum mollit non elit incididunt qui.

@@ -1,4 +1,4 @@
-site_name: TechTalkJohn
+site_name: Blog - TechTalkJohn
 site_description: techtalkjohn blog
 site_url: https://github.com/JohnTelford/techtalkjohn
 
@@ -38,7 +38,17 @@ theme:
 
 plugins:
   - search
-  - blog
+  - blog:
+
+      archive_date_format: MMMM yyyy
+
+      categories_allowed:
+        - TEST
+        - Raycast
+        - New
+
+      blog_toc: true
+      archive_date_format: MMMM yyyy
 
 markdown_extensions:
   - pymdownx.superfences:
