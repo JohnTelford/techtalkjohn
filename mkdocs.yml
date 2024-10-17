@@ -1,5 +1,5 @@
 site_name: TechTalkJohn
-repo_url: https://github.com/JohnTelford/techtalkjohn
+site_url: https://github.com/JohnTelford/techtalkjohn
 
 theme:
   name: material
@@ -37,6 +37,7 @@ theme:
 
 plugins:
   - search
+  - blog
 
 markdown_extensions:
   - pymdownx.superfences:
