@@ -1,4 +1,5 @@
 site_name: TechTalkJohn
+site_description: techtalkjohn blog
 site_url: https://github.com/JohnTelford/techtalkjohn
 
 theme:
