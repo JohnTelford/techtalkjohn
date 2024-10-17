@@ -4,23 +4,70 @@ categories:
   - Raycast
 ---
 
+# Raycast
 
-Sit consectetur anim commodo excepteur reprehenderit irure. Duis adipisicing proident minim tempor nulla elit fugiat. Irure irure veniam minim Lorem. Consectetur nisi do cillum magna sunt anim amet enim aliqua eiusmod sint commodo minim proident.
+Raycast is a powerful productivity application for macOS that serves as an advanced launcher and command center. It a Spotlight replacement.
 
-Et et ullamco reprehenderit qui eu pariatur. Esse cupidatat occaecat ex mollit reprehenderit occaecat nostrud minim veniam occaecat tempor nostrud nisi aliquip. Exercitation cillum aliquip ullamco amet aliqua nulla cillum nostrud qui sint irure laboris. Ipsum nisi qui Lorem velit.
+With less than a week using Raycast. I'm observing that I am using the keyboad more and the mouse less doing things quicker than useing both.
 
-Commodo non est cillum incididunt eu. Laboris occaecat voluptate ex anim irure amet officia aliqua quis eu eu fugiat. Amet dolor non labore quis id exercitation ipsum dolore quis reprehenderit ut cillum. Nisi veniam duis quis reprehenderit non sit. Nostrud fugiat aliquip mollit enim eu anim laborum consequat esse est esse non dolore occaecat. Ipsum magna magna amet amet fugiat deserunt adipisicing.
+I saw a brief decription of Raycast somewhere. I needed an information junkie fix. I asked perplexity about Raycast onboarding. It checked 11 sources and generated results that sold me on giving Raycast a test drive. I'm hooked.
 
-Fugiat non sit pariatur eu cupidatat aliquip fugiat ea officia do esse dolor. Sint anim aliquip do enim laborum cillum. Enim Lorem eu excepteur sunt qui sunt adipisicing veniam. Nostrud consectetur nostrud officia occaecat ex dolor labore exercitation. Occaecat enim ex aliqua sint elit magna eiusmod labore ea amet. Do enim elit aute ea aute veniam ad pariatur tempor esse.
+## Raycast - Quick Links & Snippets
 
-Et ea eiusmod minim do sit aliqua minim excepteur. Elit magna deserunt labore ad proident. Officia id nostrud sunt pariatur culpa ea ipsum adipisicing aliqua quis cupidatat.
+Oct 7,8024
 
-Fugiat ad ad eu aute dolor qui reprehenderit velit cillum voluptate ullamco ex minim. Tempor cupidatat elit tempor ea Lorem ullamco ad. Proident adipisicing aliqua sint sint proident cupidatat labore ut dolore irure labore sunt qui. Duis eu et fugiat consectetur cillum magna nostrud ex reprehenderit enim.
+### Window Position & Size
 
-Aute incididunt enim sunt sunt et. Lorem mollit do officia officia. Sunt elit irure culpa incididunt pariatur officia adipisicing magna dolore duis amet enim ullamco. Laborum aliqua labore commodo et culpa velit. Non do id aliquip laborum labore ea proident nulla magna aliquip magna ex. Aute irure cupidatat eiusmod deserunt consectetur cillum sit et laborum.
+#### Hyper Keys
 
-Nulla ipsum ut nulla est minim consequat aute. Nisi labore mollit sit minim Lorem. Nulla veniam ipsum eiusmod nulla ad enim veniam.
+- ⌥
+- ⌘
 
-Amet aute incididunt Lorem nostrud culpa amet elit ad qui laboris commodo id est cupidatat. Ad ut mollit sint reprehenderit nulla voluptate aliqua elit pariatur. Laborum nulla eu in in Lorem voluptate. Reprehenderit velit ea minim aute tempor nisi veniam Lorem laboris enim proident sit velit commodo. Incididunt eiusmod est ullamco occaecat pariatur. Ipsum culpa veniam consequat ut ullamco ad nostrud quis commodo aute fugiat minim nisi.
+---
 
-Adipisicing deserunt ipsum labore occaecat proident ex laborum. Voluptate consequat ad sint nostrud consequat veniam. Ipsum aliqua cillum tempor in adipisicing ex adipisicing nisi anim laborum. Aute elit ex labore proident ut aute aliqua laborum irure eu consequat id quis. Non cillum eiusmod cillum dolor sunt ex. Incididunt mollit proident pariatur duis cillum proident cupidatat anim proident anim eiusmod dolore duis. Pariatur velit reprehenderit eiusmod ad ut duis.
+- ⌥1 upper left 1
+- ⌥2 upper left 2
+- ⌥3 upper right 1
+- ⌥4 upper right 2
+- ⌥5 lower right 1
+- ⌥6 lower left 2
+- ⌘1 fourth
+- ⌘2 fourth
+- ⌘3 fourth
+- ⌘5 center half
+- ⌘6 almost maximum
+
+### Links & Snippets
+
+- acu -app cleaner & uninstaller
+- btn - browse top news
+- ccc- carbon copy cloner
+- cloudflare
+- couch
+- cq - create quick link
+- dte - date
+- dtt - date and time
+- dvap - devonagentpro
+- first tech
+- freef - freeform
+- ghb - github
+- ghbd - github docs
+- git-scm - git docs
+- gp - getpath
+- markdowngdradra
+- mindnode
+- mkbs- mkdocs build, mkdocs serve
+- mkdm - mkdocs material
+- msg
+- mychart
+- nzbplanet
+- pcalc - rpn calculator
+- perplexity | ask
+- rem - reminder
+- ppsrx
+- pswd - passwords
+- ses - search emoji & symbols
+- slvr - soulver
+- snr - sonnar
+- tme
+- txte - text edit
