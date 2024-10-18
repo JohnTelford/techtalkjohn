@@ -6,13 +6,13 @@ categories:
 
 # Raycast
 
-Raycast is a powerful productivity application for macOS that serves as an advanced launcher and command center. It a Spotlight replacement.
+Raycast powerful productivity application for macOS, IOS and Microsote appearing soon, that serves as an advanced launcher and command center. It a Spotlight replacement.
 
 I am using the keyboad more and the mouse less, and doing things quicker than useing both.
 
-I saw a brief decription of Raycast somewhere. I needed an information junkie fix. I asked [Perplexity](http://perplexity.ai) about Raycast app. It checked 11 sources and generated results that sold me on giving Raycast a test drive. I'm hooked.
+I saw a brief decription of Raycast [^2] somewhere. I needed an information junkie fix. I asked perplexity Perplexity [^1] about Raycast app. It checked 11 sources and generated results that sold me on giving Raycast a test drive. I'm hooked.
 
-Give Perplexity a try. When asked "What will you discover?" enter "raycast app".
+Give Perplexity [^1]a try. When asked "What will you discover?" enter "raycast app".
 
 ## Raycast - Quick Links & Snippets
 
@@ -36,6 +36,7 @@ Oct 7,8024
 - ⌘1 fourth
 - ⌘2 fourth
 - ⌘3 fourth
+- ⌘4 fourth
 - ⌘5 center half
 - ⌘6 almost maximum
 
@@ -73,3 +74,6 @@ Oct 7,8024
 - snr - sonnar
 - tme
 - txte - text edit
+
+[^1]: [Perplexity](http://perplexity.ai)
+[^2]: [Raycast](https://www.raycast.com)
